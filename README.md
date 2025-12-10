@@ -4,7 +4,7 @@ One Million Rows Challenge - High-Performance CSV Import to SQLite in Go
 
 ## Description
 
-The "One Million Rows Challenge" tests different approaches to import large CSV datasets (up to 2 million rows) into SQLite as fast as possible. This project demonstrates various optimization techniques including concurrency, batch processing, and thread-safe operations to achieve maximum import speed.
+The "One Million Rows Challenge" tests different approaches to import large CSV datasets ginto SQLite as fast as possible. This project demonstrates various optimization techniques including concurrency, batch processing, and thread-safe operations to achieve maximum import speed.
 
 ## Performance Challenge Results
 
